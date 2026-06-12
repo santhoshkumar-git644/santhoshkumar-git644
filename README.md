@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santhosh%20Kumar%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Systems%20Engineer%20%7C%20IIIT%20Hyderabad&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Building+systems+that+scale+%F0%9F%9A%80;MERN+Stack+%7C+C%2B%2B+%7C+TypeScript+%7C+Systems+Programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Building+systems+that+scale+🚀;MERN+Stack+|+C%2B%2B+|+TypeScript+|+Systems+Programming)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=santhoshkumar-git644&style=for-the-badge&color=6C63FF)](https://github.com/santhoshkumar-git644)
 [![GitHub followers](https://img.shields.io/github/followers/santhoshkumar-git644?style=for-the-badge&color=6C63FF&logo=github)](https://github.com/santhoshkumar-git644?tab=followers)
@@ -17,11 +17,11 @@
 ```typescript
 const santhosh = {
   name:       "Samadhi Venkata Santhosh Kumar Yadav",
-  university: "IIIT Hyderabad 🏛️",
+  university: "IIIT Hyderabad",
   role:       "Full-Stack Developer & Systems Engineer",
   focus:      ["MERN Stack", "Database Internals", "Systems Programming"],
   currentlyBuilding: "Scalable full-stack applications & low-level systems",
-  funFact:    "I love building things from scratch — from databases to UIs 🛠️"
+  funFact:    "I love building things from scratch - from databases to UIs"
 };
 ```
 
