@@ -1,59 +1,79 @@
-# Samadhi Venkata Santhosh Kumar Yadav
+# 👋 Hi, I'm Santhosh Kumar Yadav
 
-**Undergraduate Student — International Institute of Information Technology, Hyderabad**
-
----
-
-## About
-
-I am a computer science student at IIIT Hyderabad with a focus on full-stack web development and systems programming. I enjoy building things end-to-end — from low-level database systems to production web applications.
+🎓 Undergraduate in **Computer Science and Engineering (CSE)** at **International Institute of Information Technology, Hyderabad**
+💻 Interested in **Full-Stack Development, Systems Programming, and Machine Learning**
+🛠️ Building things at the intersection of **web + systems + data**
 
 ---
 
-## Education
+## 🚀 What I'm Currently Working On
 
-**B.Tech, Computer Science** — IIIT Hyderabad
-
----
-
-## Technical Skills
-
-**Languages:** JavaScript, TypeScript, C++, Python, HTML, CSS
-
-**Web Development:** React.js, Node.js, Express.js, MongoDB, Next.js, REST APIs
-
-**Tools:** Git, Linux, Streamlit
+- 🌐 Full-Stack development with the **MERN stack** (MongoDB, Express, React, Node.js)
+- 📱 Mobile **App Development**
+- 🗄️ **Database Systems** — concurrency control, crash recovery, ACID compliance
+- 🤖 Exploring **Machine Learning and AI**
+- 🌍 Contributing to **Open Source** projects
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-**[Transaction Manager](https://github.com/santhoshkumar-git644/transaction-manager)**
-A database transaction manager built in C++ that simulates core DBMS functionalities. Implements Strict Two-Phase Locking (2PL), deadlock detection using wait-for graphs, and crash recovery via Write-Ahead Logging (WAL). Ensures full ACID compliance in a multi-transaction environment.
+**Languages**
+- JavaScript, TypeScript, C++, Python, HTML, CSS
 
-**[MERN Stack Application](https://github.com/santhoshkumar-git644/MERN-STACK)**
-A full-stack web application built with MongoDB, Express.js, React, and Node.js. Covers end-to-end feature development with RESTful API design.
+**Domains**
+- Full-Stack Web Development
+- Database Internals & Systems Programming
+- Machine Learning
+- Mobile App Development
 
-**[Smart URL Shortener](https://github.com/santhoshkumar-git644/smart-URL-shortener)**
-A URL shortening service built in JavaScript with a focus on scalable backend architecture and efficient redirect handling.
-
-**[BePresent Clone](https://github.com/santhoshkumar-git644/Bepresent-clone)**
-A TypeScript-based attendance and presence tracking system with a clean, modern UI.
-
-**[NSS IIITH Website](https://github.com/santhoshkumar-git644/Website)**
-Contributed to the official NSS IIIT Hyderabad showcase website. Live at [nss.iiit.ac.in](https://nss.iiit.ac.in).
+**Tools & Frameworks**
+- React.js, Node.js, Express.js, MongoDB, Next.js
+- Git, Linux, Streamlit
 
 ---
 
-## GitHub Stats
+## 📌 Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhoshkumar-git644&show_icons=true&theme=default&hide_border=true&count_private=true)
+🔹 **[Transaction Manager](https://github.com/santhoshkumar-git644/transaction-manager)**
+- Built in C++ to simulate core database functionalities
+- Implemented Strict Two-Phase Locking (2PL) and deadlock detection via wait-for graphs
+- Write-Ahead Logging (WAL) for undo/redo crash recovery — full ACID compliance
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumar-git644&layout=compact&theme=default&hide_border=true)
+🔹 **[MERN Stack Application](https://github.com/santhoshkumar-git644/MERN-STACK)**
+- Full-stack web application using MongoDB, Express.js, React, and Node.js
+- End-to-end development with RESTful API design
+
+🔹 **[Smart URL Shortener](https://github.com/santhoshkumar-git644/smart-URL-shortener)**
+- URL shortening service built in JavaScript
+- Focus on scalable backend design and efficient redirect handling
+
+🔹 **[BePresent Clone](https://github.com/santhoshkumar-git644/Bepresent-clone)**
+- Attendance and presence tracking system built with TypeScript
+- Clean UI with real-world UX patterns
+
+🔹 **[App Development](https://github.com/santhoshkumar-git644/APP_DEV)**
+- Mobile application development project
+
+🔹 **[NSS IIITH Website](https://github.com/santhoshkumar-git644/Website)**
+- Contributed to the official NSS IIIT Hyderabad showcase website
+- Live at [nss.iiit.ac.in](https://nss.iiit.ac.in)
 
 ---
 
-## Contact
+## 📈 Goals
 
-- GitHub: [github.com/santhoshkumar-git644](https://github.com/santhoshkumar-git644)
-- University: [iiit.ac.in](https://iiit.ac.in)
+- 🏢 Land a strong software engineering internship
+- 🗄️ Go deeper into database internals and distributed systems
+- 🤖 Build practical ML/AI projects
+- 🌍 Contribute meaningfully to open-source software
+- 📱 Ship a complete mobile application
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 [s.v.santhoshkumar2007@gmail.com](mailto:s.v.santhoshkumar2007@gmail.com)
+- 📧 [samadhi.yadav@students.iiit.ac.in](mailto:samadhi.yadav@students.iiit.ac.in)
+- 💼 [LinkedIn](https://www.linkedin.com/in/santhosh-samadhi-9b62ab343/)
+- 🏫 [IIIT Hyderabad](https://iiit.ac.in)
