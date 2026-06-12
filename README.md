@@ -1,64 +1,170 @@
-<h1 align="center">Hi 👋, I'm Samadhi Venkata Santhosh Kumar Yadav</h1>
-<h3 align="center">🎓 CS Undergrad @ IIIT Hyderabad | Full-Stack Developer | Systems Engineer</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+systems+that+scale+%F0%9F%9A%80;Full-Stack+%7C+Backend+%7C+Systems+Engineering;MERN+Stack+%7C+C%2B%2B+%7C+TypeScript" alt="Typing SVG" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santhosh%20Kumar%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Systems%20Engineer%20%7C%20IIIT%20Hyderabad&descAlignY=55&descSize=16" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Building+systems+that+scale+%F0%9F%9A%80;MERN+Stack+%7C+C%2B%2B+%7C+TypeScript+%7C+Systems+Programming)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=santhoshkumar-git644&style=for-the-badge&color=6C63FF)](https://github.com/santhoshkumar-git644)
+[![GitHub followers](https://img.shields.io/github/followers/santhoshkumar-git644?style=for-the-badge&color=6C63FF&logo=github)](https://github.com/santhoshkumar-git644?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/santhoshkumar-git644?style=for-the-badge&color=6C63FF&logo=github)](https://github.com/santhoshkumar-git644)
+
+</div>
+
 ---
-## 🚀 What I'm Currently Working On
-- 🌐 **Full-Stack Development** — Building production-ready apps with the **MERN stack** (MongoDB, Express, React, Node.js)
-- 📱 **App Development** — Cross-platform mobile applications
-- 🗄️ **Systems Programming** — Database internals, concurrency control, and low-level systems
-- 🔗 **Web Infrastructure** — Smart URL shorteners, scalable backend APIs
+
+## ðŸ‘¨â€ðŸ’» About Me
+
+```typescript
+const santhosh = {
+  name:       "Samadhi Venkata Santhosh Kumar Yadav",
+  university: "IIIT Hyderabad ðŸ›ï¸",
+  role:       "Full-Stack Developer & Systems Engineer",
+  focus:      ["MERN Stack", "Database Internals", "Systems Programming"],
+  currentlyBuilding: "Scalable full-stack applications & low-level systems",
+  funFact:    "I love building things from scratch â€” from databases to UIs ðŸ› ï¸"
+};
+```
+
 ---
-## 🛠️ Tech Stack
-**Languages**
-- JavaScript / TypeScript, C++, Python, HTML/CSS
-**Full-Stack & Web**
-- React.js, Node.js, Express.js, MongoDB
-- Next.js, REST APIs
-**Systems & Tools**
-- Git, Linux, Streamlit
-- Database internals (2PL, WAL, ACID)
+
+## ðŸš€ What I'm Currently Working On
+
+- ðŸŒ **Full-Stack Development** â€” Production-ready apps with the **MERN stack**
+- ðŸ“± **App Development** â€” Cross-platform mobile applications
+- ðŸ—„ï¸ **Systems Programming** â€” Database internals, concurrency control, crash recovery
+- ðŸ”— **Web Infrastructure** â€” Smart URL shorteners, scalable backend APIs
+
 ---
-## 📌 Projects
-🔹 **[MERN-STACK](https://github.com/santhoshkumar-git644/MERN-STACK)**
-- Full-stack web application built with MongoDB, Express, React, and Node.js
-- End-to-end feature implementation with modern JavaScript
-🔹 **[Transaction Manager](https://github.com/santhoshkumar-git644/transaction-manager)** ⭐
-- Built a Transaction Manager in **C++** simulating core database functionalities
-- Implemented **Strict 2PL** locking, **wait-for graph** for deadlock detection
-- **Write-Ahead Logging (WAL)** for undo/redo crash recovery — full **ACID compliance**
-🔹 **[Smart URL Shortener](https://github.com/santhoshkumar-git644/smart-URL-shortener)**
-- Intelligent URL shortening service built in JavaScript
-- Focus on scalable backend design and API efficiency
-🔹 **[BePresent Clone](https://github.com/santhoshkumar-git644/Bepresent-clone)**
-- Full TypeScript-based clone with modern UI components
-- Attendance and presence tracking system
-🔹 **[App Dev](https://github.com/santhoshkumar-git644/APP_DEV)**
-- Mobile application development explorations
-🔹 **[NSS IIITH Website](https://github.com/santhoshkumar-git644/Website)** — [nss.iiit.ac.in](https://nss.iiit.ac.in)
-- Contributed to the official **NSS IIIT Hyderabad** showcase website
-- Open for contributions!
+
+## ðŸ› ï¸ Tech Stack
+
+<div align="center">
+
+### ðŸ’» Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ðŸŒ Frontend & Backend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### âš™ï¸ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
 ---
-## 📈 Goals
-- 🏗️ Build scalable, production-grade full-stack systems
-- 🗄️ Go deeper into **database internals** and **distributed systems**
-- 🔒 Strengthen understanding of **systems-level programming** in C++
-- 🌍 Contribute to impactful open-source projects
+
+## ðŸ“Œ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">ðŸ—„ï¸ Transaction Manager</h3>
+      <p align="center">
+        <a href="https://github.com/santhoshkumar-git644/transaction-manager">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=santhoshkumar-git644&repo=transaction-manager&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+      <p>Built in <strong>C++</strong> â€” simulates core database operations with <strong>Strict 2PL</strong> locking, deadlock detection via wait-for graphs, and crash recovery using <strong>Write-Ahead Logging (WAL)</strong>. Full ACID compliance.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">ðŸŒ MERN Stack App</h3>
+      <p align="center">
+        <a href="https://github.com/santhoshkumar-git644/MERN-STACK">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=santhoshkumar-git644&repo=MERN-STACK&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+      <p>Full-stack web application with <strong>MongoDB, Express, React & Node.js</strong>. End-to-end modern JavaScript implementation with RESTful API design.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">ðŸ”— Smart URL Shortener</h3>
+      <p align="center">
+        <a href="https://github.com/santhoshkumar-git644/smart-URL-shortener">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=santhoshkumar-git644&repo=smart-URL-shortener&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+      <p>Intelligent URL shortening service in <strong>JavaScript</strong>. Focuses on scalable backend design, efficient redirects, and clean API architecture.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">ðŸ“‹ BePresent Clone</h3>
+      <p align="center">
+        <a href="https://github.com/santhoshkumar-git644/Bepresent-clone">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=santhoshkumar-git644&repo=Bepresent-clone&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+      <p>Full <strong>TypeScript</strong> clone with modern UI. Attendance and presence tracking system with real-world UX patterns.</p>
+    </td>
+  </tr>
+</table>
+
 ---
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhoshkumar-git644&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumar-git644&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkumar-git644&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+
+## ðŸ“Š GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=santhoshkumar-git644&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumar-git644&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhoshkumar-git644&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
 ---
-## 🤝 Let's Connect
-- 🏫 [IIIT Hyderabad](https://iiit.ac.in)
-- 💻 [GitHub](https://github.com/santhoshkumar-git644)
+
+## ðŸ† GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=santhoshkumar-git644&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ---
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
-</p>
+
+## ðŸ“ˆ Goals
+
+- ðŸ—ï¸ Build scalable, production-grade full-stack systems
+- ðŸ—„ï¸ Go deeper into **database internals** and **distributed systems**
+- ðŸ”’ Master **systems-level programming** in C++
+- ðŸŒ Contribute to meaningful open-source projects
+- ðŸ¤ Collaborate on impactful real-world applications
+
+---
+
+## ðŸ¤ Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-santhoshkumar--git644-181717?style=for-the-badge&logo=github)](https://github.com/santhoshkumar-git644)
+[![IIIT Hyderabad](https://img.shields.io/badge/University-IIIT%20Hyderabad-6C63FF?style=for-the-badge&logo=academia)](https://iiit.ac.in)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
