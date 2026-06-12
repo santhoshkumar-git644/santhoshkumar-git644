@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santhosh Kumar Yadav
 
-🎓 Undergraduate in **Computer Science and Engineering (CSE)** at **International Institute of Information Technology, Hyderabad**
+🎓 Undergraduate in **Electronics and Communication Engineering (ECE)** at **International Institute of Information Technology, Hyderabad**
 💻 Interested in **Full-Stack Development, Systems Programming, and Machine Learning**
 🛠️ Building things at the intersection of **web + systems + data**
 
