@@ -12,35 +12,35 @@
 
 ---
 
-## ðŸ‘¨â€ðŸ’» About Me
+## 👨‍💻 About Me
 
 ```typescript
 const santhosh = {
   name:       "Samadhi Venkata Santhosh Kumar Yadav",
-  university: "IIIT Hyderabad ðŸ›ï¸",
+  university: "IIIT Hyderabad 🏛️",
   role:       "Full-Stack Developer & Systems Engineer",
   focus:      ["MERN Stack", "Database Internals", "Systems Programming"],
   currentlyBuilding: "Scalable full-stack applications & low-level systems",
-  funFact:    "I love building things from scratch â€” from databases to UIs ðŸ› ï¸"
+  funFact:    "I love building things from scratch — from databases to UIs 🛠️"
 };
 ```
 
 ---
 
-## ðŸš€ What I'm Currently Working On
+## 🚀 What I'm Currently Working On
 
-- ðŸŒ **Full-Stack Development** â€” Production-ready apps with the **MERN stack**
-- ðŸ“± **App Development** â€” Cross-platform mobile applications
-- ðŸ—„ï¸ **Systems Programming** â€” Database internals, concurrency control, crash recovery
-- ðŸ”— **Web Infrastructure** â€” Smart URL shorteners, scalable backend APIs
+- 🌐 **Full-Stack Development** — Production-ready apps with the **MERN stack**
+- 📱 **App Development** — Cross-platform mobile applications
+- 🗄️ **Systems Programming** — Database internals, concurrency control, crash recovery
+- 🔗 **Web Infrastructure** — Smart URL shorteners, scalable backend APIs
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ðŸ’» Languages
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -48,14 +48,14 @@ const santhosh = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ðŸŒ Frontend & Backend
+### 🌐 Frontend & Backend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### âš™ï¸ Tools & Platforms
+### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -66,21 +66,21 @@ const santhosh = {
 
 ---
 
-## ðŸ“Œ Featured Projects
+## 📌 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">ðŸ—„ï¸ Transaction Manager</h3>
+      <h3 align="center">🗄️ Transaction Manager</h3>
       <p align="center">
         <a href="https://github.com/santhoshkumar-git644/transaction-manager">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=santhoshkumar-git644&repo=transaction-manager&theme=tokyonight&hide_border=true" />
         </a>
       </p>
-      <p>Built in <strong>C++</strong> â€” simulates core database operations with <strong>Strict 2PL</strong> locking, deadlock detection via wait-for graphs, and crash recovery using <strong>Write-Ahead Logging (WAL)</strong>. Full ACID compliance.</p>
+      <p>Built in <strong>C++</strong> — simulates core database operations with <strong>Strict 2PL</strong> locking, deadlock detection via wait-for graphs, and crash recovery using <strong>Write-Ahead Logging (WAL)</strong>. Full ACID compliance.</p>
     </td>
     <td width="50%">
-      <h3 align="center">ðŸŒ MERN Stack App</h3>
+      <h3 align="center">🌐 MERN Stack App</h3>
       <p align="center">
         <a href="https://github.com/santhoshkumar-git644/MERN-STACK">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=santhoshkumar-git644&repo=MERN-STACK&theme=tokyonight&hide_border=true" />
@@ -91,7 +91,7 @@ const santhosh = {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">ðŸ”— Smart URL Shortener</h3>
+      <h3 align="center">🔗 Smart URL Shortener</h3>
       <p align="center">
         <a href="https://github.com/santhoshkumar-git644/smart-URL-shortener">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=santhoshkumar-git644&repo=smart-URL-shortener&theme=tokyonight&hide_border=true" />
@@ -100,7 +100,7 @@ const santhosh = {
       <p>Intelligent URL shortening service in <strong>JavaScript</strong>. Focuses on scalable backend design, efficient redirects, and clean API architecture.</p>
     </td>
     <td width="50%">
-      <h3 align="center">ðŸ“‹ BePresent Clone</h3>
+      <h3 align="center">📋 BePresent Clone</h3>
       <p align="center">
         <a href="https://github.com/santhoshkumar-git644/Bepresent-clone">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=santhoshkumar-git644&repo=Bepresent-clone&theme=tokyonight&hide_border=true" />
@@ -113,7 +113,7 @@ const santhosh = {
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -130,7 +130,7 @@ const santhosh = {
 
 ---
 
-## ðŸ† GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -140,17 +140,17 @@ const santhosh = {
 
 ---
 
-## ðŸ“ˆ Goals
+## 📈 Goals
 
-- ðŸ—ï¸ Build scalable, production-grade full-stack systems
-- ðŸ—„ï¸ Go deeper into **database internals** and **distributed systems**
-- ðŸ”’ Master **systems-level programming** in C++
-- ðŸŒ Contribute to meaningful open-source projects
-- ðŸ¤ Collaborate on impactful real-world applications
+- 🏗️ Build scalable, production-grade full-stack systems
+- 🗄️ Go deeper into **database internals** and **distributed systems**
+- 🔒 Master **systems-level programming** in C++
+- 🌍 Contribute to meaningful open-source projects
+- 🤝 Collaborate on impactful real-world applications
 
 ---
 
-## ðŸ¤ Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
